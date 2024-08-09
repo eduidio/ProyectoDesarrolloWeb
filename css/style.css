@@ -1,0 +1,24 @@
+h1{
+    color: aquamarine;
+}
+img{
+    width: 20%;
+}
+iframe{
+    width: 150px;
+    height: 150px;
+}
+header{
+    display: inline-block;
+}
+
+#logo{
+width: 35%;
+}
+
+.logoBombis{
+    width: 10%
+}
+#vedetinas{
+    width: 150%;
+}
