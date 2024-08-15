@@ -1,5 +1,22 @@
+. {
+    padding: 0px;
+    margin: 0px;
+    font-family: Century Gothic;
+}
+ body{
+    background-color: #f4efec;
+ }
+
+ .home{
+    display: flex;
+}
+
+.in-flex{
+    flex: 1;
+}
 h1{
-    color: aquamarine;
+
+    background-color: #f0d9d1;
 }
 img{
     width: 20%;
@@ -27,6 +44,4 @@ width: 35%;
     width: 10%;
 }
 
-nav{
-    display: inline;
-}
+
